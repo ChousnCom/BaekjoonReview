@@ -1,3 +1,5 @@
+package bruteforce;
+
 import java.util.Scanner;
 
 public class BaekjoonAdvanced2231 {

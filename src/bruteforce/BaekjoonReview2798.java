@@ -1,3 +1,5 @@
+package bruteforce;
+
 import java.util.Scanner;
 
 //백준 2798 복습

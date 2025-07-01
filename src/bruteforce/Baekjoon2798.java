@@ -1,3 +1,5 @@
+package bruteforce;
+
 import java.util.Scanner;
 //백준 2798(부르트 포스 블랙잭)
 //브루트포스? -> 수학적 노가다 가능한 모든 경우의 수를 찾기

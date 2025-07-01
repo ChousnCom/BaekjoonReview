@@ -1,4 +1,6 @@
-    import java.util.Scanner;
+package bruteforce;
+
+import java.util.Scanner;
 
     public class Baekjoon19532 {
         public static void main(String[] args) {
