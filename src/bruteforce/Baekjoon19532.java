@@ -16,7 +16,7 @@ import java.util.Scanner;
             int res2 = 0;
             for(int i = -999; i<=999; i++){
                 for(int j = -999; j<=999; j++){
-                    if(a*i + b*j ==c){
+                    if(a*i + b*j == c){
                         if(d*i + e*j == f)  {
                             res1 = i;
                             res2 = j;
